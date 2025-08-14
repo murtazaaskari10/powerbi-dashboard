@@ -7,7 +7,7 @@ Curated selection of my dashboards: Amazon KPIs, Marketing Attribution, and Ops 
 ---
 
 ## Live Demo (Power BI)
-[![View Dashboard](https://ibb.co/nM2Q7TLj)](https://app.powerbi.com/view?r=eyJrIjoiZjliMGE0NWMtYjMzMi00OTNmLWIwNzYtNGQ3ZWQ2M2YyMWRkIiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9&pageName=91a4f559eaa1911813a8)
+[![Dashboard Screenshot](https://i.ibb.co/nM2Q7TLj/dashboard-screenshot.png)](https://app.powerbi.com/view?r=eyJrIjoiZjliMGE0NWMtYjMzMi00OTNmLWIwNzYtNGQ3ZWQ2M2YyMWRkIiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9&pageName=91a4f559eaa1911813a8)
 
 > ⚠️ This dashboard is published using **Power BI Publish to web** — it is public and may be indexed by search engines.
 
@@ -27,7 +27,7 @@ Curated selection of my dashboards: Amazon KPIs, Marketing Attribution, and Ops 
 ---
 
 ## How to View
-1. Click the **View Dashboard** badge above.
+1. Click the **Dashboard Screenshot** above.
 2. Interact with filters and drillthrough pages.
 3. Or, download `dashboard.pdf` from this repo for a static view.
 
